@@ -75,7 +75,3 @@ increased_complexity_zigzag_data.to_csv('increased_complexity_zigzag_data.csv', 
 Similar performances on other datasets.
 
 > **Note**: Rational Quadratic Kernel and Dot Product Kernel can also give warnings.
-
->**Develop**: I will continue to develop this library if requested, I will develop it for my own use, there are still things I want to do. If there is demand, it will be developed in a more optimized and cleaner way with a general library logic.
-
->**ChatBot**: If there is enough support for this library, I plan to open a Bayesian based chatbot library to the general public.
